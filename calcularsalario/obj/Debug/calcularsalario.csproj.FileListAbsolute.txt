@@ -1,0 +1,8 @@
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\bin\Debug\calcularsalario.exe.config
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\bin\Debug\calcularsalario.exe
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\bin\Debug\calcularsalario.pdb
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\obj\Debug\calcularsalario.csproj.AssemblyReference.cache
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\obj\Debug\calcularsalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\obj\Debug\calcularsalario.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\obj\Debug\calcularsalario.exe
+C:\Users\Robin\source\repos\calcularsalario\calcularsalario\obj\Debug\calcularsalario.pdb
